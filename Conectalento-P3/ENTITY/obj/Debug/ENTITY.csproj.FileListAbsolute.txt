@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\ENTITY\obj\Debug\ENTITY.pdb
