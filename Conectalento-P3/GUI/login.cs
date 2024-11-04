@@ -248,9 +248,13 @@ namespace GUI
         {
             lblErrorC.Text = "      "+ msg;
             lblErrorC.Visible = true;
-        }    
+        }
 
-        
+        private void LinkC_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            var recoverPassword = new  FormRecoverPassword();
+            recoverPassword.ShowDialog();
+        }
     }
     
 }

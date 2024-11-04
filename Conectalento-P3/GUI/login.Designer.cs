@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(login));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.lblErrorC = new System.Windows.Forms.Label();
+            this.LinkC = new System.Windows.Forms.LinkLabel();
             this.BtnE = new System.Windows.Forms.Button();
             this.TxtEc = new System.Windows.Forms.TextBox();
             this.labelEc = new System.Windows.Forms.Label();
@@ -50,8 +52,6 @@
             this.panelSuperior = new GUI.Controls.EllipseControl();
             this.panelInferior = new GUI.Controls.EllipseControl();
             this.ellipseComponent1 = new GUI.Components.EllipseComponent();
-            this.LinkC = new System.Windows.Forms.LinkLabel();
-            this.lblErrorC = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -84,6 +84,31 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1000, 601);
             this.panel1.TabIndex = 0;
+            // 
+            // lblErrorC
+            // 
+            this.lblErrorC.AutoSize = true;
+            this.lblErrorC.BackColor = System.Drawing.Color.White;
+            this.lblErrorC.Image = ((System.Drawing.Image)(resources.GetObject("lblErrorC.Image")));
+            this.lblErrorC.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lblErrorC.Location = new System.Drawing.Point(582, 371);
+            this.lblErrorC.Name = "lblErrorC";
+            this.lblErrorC.Size = new System.Drawing.Size(76, 13);
+            this.lblErrorC.TabIndex = 22;
+            this.lblErrorC.Text = "Error Mesagge";
+            this.lblErrorC.Visible = false;
+            // 
+            // LinkC
+            // 
+            this.LinkC.AutoSize = true;
+            this.LinkC.BackColor = System.Drawing.Color.White;
+            this.LinkC.Location = new System.Drawing.Point(626, 449);
+            this.LinkC.Name = "LinkC";
+            this.LinkC.Size = new System.Drawing.Size(107, 13);
+            this.LinkC.TabIndex = 21;
+            this.LinkC.TabStop = true;
+            this.LinkC.Text = "olvide mi contraseña!";
+            this.LinkC.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LinkC_LinkClicked);
             // 
             // BtnE
             // 
@@ -297,30 +322,6 @@
             // 
             this.ellipseComponent1.CornerRadius = 50;
             this.ellipseComponent1.TargetControl = null;
-            // 
-            // LinkC
-            // 
-            this.LinkC.AutoSize = true;
-            this.LinkC.BackColor = System.Drawing.Color.White;
-            this.LinkC.Location = new System.Drawing.Point(626, 449);
-            this.LinkC.Name = "LinkC";
-            this.LinkC.Size = new System.Drawing.Size(107, 13);
-            this.LinkC.TabIndex = 21;
-            this.LinkC.TabStop = true;
-            this.LinkC.Text = "olvide mi contraseña!";
-            // 
-            // lblErrorC
-            // 
-            this.lblErrorC.AutoSize = true;
-            this.lblErrorC.BackColor = System.Drawing.Color.White;
-            this.lblErrorC.Image = ((System.Drawing.Image)(resources.GetObject("lblErrorC.Image")));
-            this.lblErrorC.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lblErrorC.Location = new System.Drawing.Point(582, 371);
-            this.lblErrorC.Name = "lblErrorC";
-            this.lblErrorC.Size = new System.Drawing.Size(76, 13);
-            this.lblErrorC.TabIndex = 22;
-            this.lblErrorC.Text = "Error Mesagge";
-            this.lblErrorC.Visible = false;
             // 
             // login
             // 

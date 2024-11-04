@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|c:\\users\\usuario\\desktop\\conectalento\\conectalento_p3\\conectalento-p3\\gui\\principalcandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\principalcandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\dal\\sqlserver\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|solutionrelative:dal\\sqlserver\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|c:\\users\\usuario\\desktop\\conectalento\\conectalento_p3\\conectalento-p3\\dal\\drecuperarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|solutionrelative:dal\\drecuperarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB6ED62-03F3-40ED-A44C-AFC446F4EEA5}|Common\\Common.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\common\\cache\\usercache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAB6ED62-03F3-40ED-A44C-AFC446F4EEA5}|Common\\Common.csproj|solutionrelative:common\\cache\\usercache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{249112B4-108C-483F-84F5-95257FB64234}|BLL\\BLL.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\bll\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249112B4-108C-483F-84F5-95257FB64234}|BLL\\BLL.csproj|solutionrelative:bll\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\dal\\sqlserver\\connectiontosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|solutionrelative:dal\\sqlserver\\connectiontosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\dal\\mailservices\\systemsupportmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|solutionrelative:dal\\mailservices\\systemsupportmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\gui\\formrecoverpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\formrecoverpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\dal\\mailservices\\mastermailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|solutionrelative:dal\\mailservices\\mastermailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\gui\\formrecoverpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\formrecoverpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\gui\\principalcandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\principalcandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\gui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,80 +57,96 @@
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SystemSupportMail.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\MailServices\\SystemSupportMail.cs",
-              "RelativeDocumentMoniker": "DAL\\MailServices\\SystemSupportMail.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\MailServices\\SystemSupportMail.cs",
-              "RelativeToolTip": "DAL\\MailServices\\SystemSupportMail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T00:18:10.861Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\BLL\\UserModel.cs",
-              "RelativeDocumentMoniker": "BLL\\UserModel.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\BLL\\UserModel.cs",
-              "RelativeToolTip": "BLL\\UserModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "DRecuperarPassword.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\DRecuperarPassword.cs",
+              "RelativeDocumentMoniker": "DAL\\DRecuperarPassword.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\DRecuperarPassword.cs",
+              "RelativeToolTip": "DAL\\DRecuperarPassword.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwDgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T23:31:36.313Z"
+              "WhenOpened": "2024-11-02T04:55:28.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserDao.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\SqlServer\\UserDao.cs",
-              "RelativeDocumentMoniker": "DAL\\SqlServer\\UserDao.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\SqlServer\\UserDao.cs",
-              "RelativeToolTip": "DAL\\SqlServer\\UserDao.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAwwGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T23:49:10.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ConnectionToSql.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\SqlServer\\ConnectionToSql.cs",
               "RelativeDocumentMoniker": "DAL\\SqlServer\\ConnectionToSql.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\SqlServer\\ConnectionToSql.cs",
               "RelativeToolTip": "DAL\\SqlServer\\ConnectionToSql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T23:32:01.581Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRecoverPassword.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\FormRecoverPassword.cs",
+              "RelativeDocumentMoniker": "GUI\\FormRecoverPassword.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\FormRecoverPassword.cs",
+              "RelativeToolTip": "GUI\\FormRecoverPassword.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:37:10.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs",
+              "RelativeDocumentMoniker": "GUI\\login.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs",
+              "RelativeToolTip": "GUI\\login.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAUwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:31:01.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRecoverPassword.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\FormRecoverPassword.cs",
+              "RelativeDocumentMoniker": "GUI\\FormRecoverPassword.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\FormRecoverPassword.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI\\FormRecoverPassword.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:36:28.221Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs",
+              "RelativeDocumentMoniker": "GUI\\login.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI\\login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:29:15.123Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PrincipalCandidato.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\PrincipalCandidato.cs",
               "RelativeDocumentMoniker": "GUI\\PrincipalCandidato.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\PrincipalCandidato.cs [Dise\u00F1o]",
               "RelativeToolTip": "GUI\\PrincipalCandidato.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T04:39:07.107Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-30T04:39:07.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserCache.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\Common\\Cache\\UserCache.cs",
-              "RelativeDocumentMoniker": "Common\\Cache\\UserCache.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\Common\\Cache\\UserCache.cs",
-              "RelativeToolTip": "Common\\Cache\\UserCache.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T04:59:08.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.cs",
@@ -148,55 +156,16 @@
               "WhenOpened": "2024-11-01T01:37:45.54Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MasterMailServer.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\MailServices\\MasterMailServer.cs",
-              "RelativeDocumentMoniker": "DAL\\MailServices\\MasterMailServer.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\DAL\\MailServices\\MasterMailServer.cs",
-              "RelativeToolTip": "DAL\\MailServices\\MasterMailServer.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T16:19:18.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs",
-              "RelativeDocumentMoniker": "GUI\\login.cs",
-              "ToolTip": "C:\\Users\\great\\OneDrive\\Escritorio\\tu papi mi\u00F1a\u00F1o\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\great\\OneDrive\\Escritorio\\tu papi mi\u00F1a\u00F1o\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T03:29:15.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "login.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs",
-              "RelativeDocumentMoniker": "GUI\\login.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs",
-              "RelativeToolTip": "GUI\\login.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T00:31:01.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "login.Designer.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\login.Designer.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.Designer.cs",
               "RelativeToolTip": "GUI\\login.Designer.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAWwIcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:09:49.339Z"
+              "WhenOpened": "2024-10-29T01:09:49.339Z",
+              "EditorCaption": ""
             }
           ]
         }

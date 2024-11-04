@@ -53,9 +53,9 @@
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(425, 104);
+            this.panel1.Location = new System.Drawing.Point(383, 112);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(308, 208);
+            this.panel1.Size = new System.Drawing.Size(337, 200);
             this.panel1.TabIndex = 2;
             // 
             // PrincipalCandidato
