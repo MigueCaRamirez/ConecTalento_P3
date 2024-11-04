@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\Common\bin\Debug\Common.dll
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\Common\bin\Debug\Common.pdb
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\Common\obj\Debug\Common.dll
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\Common\obj\Debug\Common.pdb

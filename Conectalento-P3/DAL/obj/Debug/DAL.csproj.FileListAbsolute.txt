@@ -7,3 +7,14 @@ C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\DAL\obj\Debug\DAL.c
 C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\DAL\obj\Debug\DAL.dll
 C:\Users\USUARIO\Desktop\Proyectop3\Proyecto_P3\ConecTalento\DAL\obj\Debug\DAL.pdb
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\DAL.dll
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\DAL.pdb
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\Common.dll
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\ENTITY.dll
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\Common.pdb
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\ENTITY.pdb
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.dll
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.pdb
