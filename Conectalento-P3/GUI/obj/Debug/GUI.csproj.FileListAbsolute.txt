@@ -57,3 +57,5 @@ C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\G
 C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\Common.pdb
 C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\ENTITY.pdb
 C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\GUI\obj\Debug\GUI.CandidatoOption.resources
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\GUI\obj\Debug\GUI.EvaluadorOption.resources

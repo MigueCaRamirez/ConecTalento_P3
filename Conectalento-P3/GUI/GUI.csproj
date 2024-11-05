@@ -52,11 +52,23 @@
     <Compile Include="AdminOptions.Designer.cs">
       <DependentUpon>AdminOptions.cs</DependentUpon>
     </Compile>
+    <Compile Include="CandidatoOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidatoOption.Designer.cs">
+      <DependentUpon>CandidatoOption.cs</DependentUpon>
+    </Compile>
     <Compile Include="Components\EllipseComponent.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Controls\EllipseControl.cs">
       <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EvaluadorOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EvaluadorOption.Designer.cs">
+      <DependentUpon>EvaluadorOption.cs</DependentUpon>
     </Compile>
     <Compile Include="LoginAdmin.cs">
       <SubType>Form</SubType>
@@ -86,6 +98,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AdminOptions.resx">
       <DependentUpon>AdminOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidatoOption.resx">
+      <DependentUpon>CandidatoOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EvaluadorOption.resx">
+      <DependentUpon>EvaluadorOption.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormRecoverPassword.resx">
       <DependentUpon>FormRecoverPassword.cs</DependentUpon>

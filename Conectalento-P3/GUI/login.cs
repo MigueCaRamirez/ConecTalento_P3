@@ -228,6 +228,10 @@ namespace GUI
                 return; 
             }
 
+            CandidatoOption candidatoOption = new CandidatoOption();
+            candidatoOption.Show(this);
+            this.Hide();
+
             
           //  UserModel user = new UserModel();
            // var validLogin = user.LoginUser(TxtCu.Text, TxtCc.Text);
@@ -255,6 +259,13 @@ namespace GUI
         {
             var recoverPassword = new  FormRecoverPassword();
             recoverPassword.ShowDialog();
+        }
+
+        private void BtnE_Click(object sender, EventArgs e)
+        {
+            EvaluadorOption evaluadorOption = new EvaluadorOption();    
+            evaluadorOption.Show(this);
+            this.Hide();
         }
     }
     

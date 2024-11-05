@@ -48,9 +48,9 @@
             this.BtnCandidato = new System.Windows.Forms.Button();
             this.BtnEvaluador = new System.Windows.Forms.Button();
             this.BtnAdmin = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panelSuperior = new GUI.Controls.EllipseControl();
             this.panelInferior = new GUI.Controls.EllipseControl();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.ellipseComponent1 = new GUI.Components.EllipseComponent();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -114,7 +114,7 @@
             // 
             this.BtnE.BackColor = System.Drawing.Color.Blue;
             this.BtnE.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.BtnE.Font = new System.Drawing.Font("HP Simplified Hans", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnE.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnE.ForeColor = System.Drawing.Color.White;
             this.BtnE.Location = new System.Drawing.Point(264, 402);
             this.BtnE.Name = "BtnE";
@@ -122,6 +122,7 @@
             this.BtnE.TabIndex = 20;
             this.BtnE.Text = "A EVALUAR!";
             this.BtnE.UseVisualStyleBackColor = false;
+            this.BtnE.Click += new System.EventHandler(this.BtnE_Click);
             // 
             // TxtEc
             // 
@@ -134,10 +135,10 @@
             // 
             this.labelEc.AutoSize = true;
             this.labelEc.BackColor = System.Drawing.Color.White;
-            this.labelEc.Font = new System.Drawing.Font("HP Simplified Hans", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelEc.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelEc.Location = new System.Drawing.Point(223, 307);
             this.labelEc.Name = "labelEc";
-            this.labelEc.Size = new System.Drawing.Size(76, 13);
+            this.labelEc.Size = new System.Drawing.Size(88, 15);
             this.labelEc.TabIndex = 18;
             this.labelEc.Text = "CONTRASEÑA";
             // 
@@ -152,10 +153,10 @@
             // 
             this.labelEu.AutoSize = true;
             this.labelEu.BackColor = System.Drawing.Color.White;
-            this.labelEu.Font = new System.Drawing.Font("HP Simplified Hans", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelEu.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelEu.Location = new System.Drawing.Point(223, 229);
             this.labelEu.Name = "labelEu";
-            this.labelEu.Size = new System.Drawing.Size(52, 13);
+            this.labelEu.Size = new System.Drawing.Size(61, 15);
             this.labelEu.TabIndex = 16;
             this.labelEu.Text = "USUARIO";
             // 
@@ -163,11 +164,11 @@
             // 
             this.labelE.AutoSize = true;
             this.labelE.BackColor = System.Drawing.Color.White;
-            this.labelE.Font = new System.Drawing.Font("HP Simplified", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelE.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelE.ForeColor = System.Drawing.Color.Blue;
             this.labelE.Location = new System.Drawing.Point(221, 153);
             this.labelE.Name = "labelE";
-            this.labelE.Size = new System.Drawing.Size(180, 25);
+            this.labelE.Size = new System.Drawing.Size(233, 25);
             this.labelE.TabIndex = 15;
             this.labelE.Text = "COMO EVALUADOR!";
             // 
@@ -175,7 +176,7 @@
             // 
             this.BtnC.BackColor = System.Drawing.Color.Blue;
             this.BtnC.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.BtnC.Font = new System.Drawing.Font("HP Simplified Hans", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnC.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnC.ForeColor = System.Drawing.Color.White;
             this.BtnC.Location = new System.Drawing.Point(623, 402);
             this.BtnC.Name = "BtnC";
@@ -196,10 +197,10 @@
             // 
             this.labelCc.AutoSize = true;
             this.labelCc.BackColor = System.Drawing.Color.White;
-            this.labelCc.Font = new System.Drawing.Font("HP Simplified Hans", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelCc.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelCc.Location = new System.Drawing.Point(582, 307);
             this.labelCc.Name = "labelCc";
-            this.labelCc.Size = new System.Drawing.Size(76, 13);
+            this.labelCc.Size = new System.Drawing.Size(88, 15);
             this.labelCc.TabIndex = 12;
             this.labelCc.Text = "CONTRASEÑA";
             // 
@@ -214,10 +215,10 @@
             // 
             this.labelCu.AutoSize = true;
             this.labelCu.BackColor = System.Drawing.Color.White;
-            this.labelCu.Font = new System.Drawing.Font("HP Simplified Hans", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelCu.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelCu.Location = new System.Drawing.Point(582, 229);
             this.labelCu.Name = "labelCu";
-            this.labelCu.Size = new System.Drawing.Size(52, 13);
+            this.labelCu.Size = new System.Drawing.Size(61, 15);
             this.labelCu.TabIndex = 10;
             this.labelCu.Text = "USUARIO";
             // 
@@ -225,22 +226,22 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.White;
-            this.label2.Font = new System.Drawing.Font("HP Simplified", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Blue;
             this.label2.Location = new System.Drawing.Point(580, 153);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(176, 25);
+            this.label2.Size = new System.Drawing.Size(226, 25);
             this.label2.TabIndex = 9;
             this.label2.Text = "COMO CANDIDATO!";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("HP Simplified", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(286, 128);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(137, 25);
+            this.label1.Size = new System.Drawing.Size(175, 25);
             this.label1.TabIndex = 8;
             this.label1.Text = "INICIE SESION!";
             // 
@@ -248,7 +249,7 @@
             // 
             this.BtnCandidato.BackColor = System.Drawing.Color.Navy;
             this.BtnCandidato.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.BtnCandidato.Font = new System.Drawing.Font("HP Simplified Hans", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnCandidato.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnCandidato.ForeColor = System.Drawing.Color.White;
             this.BtnCandidato.Location = new System.Drawing.Point(281, 219);
             this.BtnCandidato.Name = "BtnCandidato";
@@ -262,7 +263,7 @@
             // 
             this.BtnEvaluador.BackColor = System.Drawing.Color.Navy;
             this.BtnEvaluador.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.BtnEvaluador.Font = new System.Drawing.Font("HP Simplified Hans", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnEvaluador.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnEvaluador.ForeColor = System.Drawing.Color.White;
             this.BtnEvaluador.Location = new System.Drawing.Point(281, 267);
             this.BtnEvaluador.Name = "BtnEvaluador";
@@ -276,7 +277,7 @@
             // 
             this.BtnAdmin.BackColor = System.Drawing.Color.Navy;
             this.BtnAdmin.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.BtnAdmin.Font = new System.Drawing.Font("Rockwell", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnAdmin.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnAdmin.ForeColor = System.Drawing.Color.White;
             this.BtnAdmin.Location = new System.Drawing.Point(281, 323);
             this.BtnAdmin.Name = "BtnAdmin";
@@ -285,15 +286,6 @@
             this.BtnAdmin.Text = "ADMINISTRADOR";
             this.BtnAdmin.UseVisualStyleBackColor = false;
             this.BtnAdmin.Click += new System.EventHandler(this.BtnAdmin_Click);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1000, 601);
-            this.pictureBox1.TabIndex = 3;
-            this.pictureBox1.TabStop = false;
             // 
             // panelSuperior
             // 
@@ -317,6 +309,15 @@
             this.panelInferior.TabIndex = 1;
             this.panelInferior.Text = "ellipseControl1";
             this.panelInferior.Click += new System.EventHandler(this.panelInferior_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1000, 601);
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
             // 
             // ellipseComponent1
             // 
