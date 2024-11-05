@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DRecuperarPassword.cs" />
-    <Compile Include="SqlServer\ConnectionToSql.cs" />
+    <Compile Include="SqlServer\Conexion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

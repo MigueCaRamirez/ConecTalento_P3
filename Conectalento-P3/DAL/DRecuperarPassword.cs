@@ -59,6 +59,16 @@ namespace DAL
         using (var connection = new SqlConnection())
             {
                 connection.ConnectionString = Conexion.conexion;  
+                connection.Open();
+                using (var command = new SqlCommand())
+                {
+                    command.Connection = connection;
+                    command.CommandText = "Select * from Usuario where login=@Login or Correo=@Correo";
+                    command.Parameters.AddWithValue("@Login", usuarioSolicitado);
+                    command.Parameters.AddWithValue("@Correo", usuarioSolicitado);
+
+
+                }
 
             }
 
