@@ -8,9 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Reflection.Emit;
-//using BLL;
 using System.Drawing.Text;
 using static System.Windows.Forms.LinkLabel;
+using BLL;
+
+
 namespace GUI
 {
     public partial class login : Form
@@ -228,21 +230,21 @@ namespace GUI
                 return; 
             }
 
-            
-          //  UserModel user = new UserModel();
-           // var validLogin = user.LoginUser(TxtCu.Text, TxtCc.Text);
-            //if (validLogin)
-            //{
-            //    PrincipalCandidato principalC = new PrincipalCandidato();
-            //    principalC.Show(this);
-            //    this.Hide(); 
-            //}
-            //else
-            //{
-            //    msgError("Error, usuario o contraseña incorrectas \n reintentar");
-            //    TxtCc.Clear(); 
-            //    TxtCu.Focus(); 
-            //}
+
+            NRecuperarPassword user = new NRecuperarPassword();
+            var validLogin = user.LoginUser(TxtCu.Text, TxtCc.Text);
+            if (validLogin)
+            {
+              PrincipalCandidato principalC = new PrincipalCandidato();
+              principalC.Show(this);
+                this.Hide(); 
+            }
+            else
+            {
+                msgError("Error, usuario o contraseña incorrectas \n reintentar");
+                TxtCc.Clear(); 
+                TxtCu.Focus(); 
+            }
         }
 
         private void msgError(string msg)

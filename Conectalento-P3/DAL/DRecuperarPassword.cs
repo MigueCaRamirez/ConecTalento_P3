@@ -10,78 +10,62 @@ using System.Threading.Tasks;
 namespace DAL
 {
     public class DRecuperarPassword
-    {
-        private SmtpClient smtpClient;
-        protected string remitenteCorreo {  get; set; }
-        protected string password { get; set; }
-        protected string host { get; set; }
-        protected int port { get; set; }
-        protected bool ssl {  get; set; }
-
-        protected void initializeSmtpClient()
+    { // Método para validar el inicio de sesión
+        public bool LoginUser(string username, string password)
         {
-          smtpClient = new SmtpClient();
-            smtpClient.Credentials = new NetworkCredential(remitenteCorreo,password);
-            smtpClient.Host = host;
-            smtpClient.Port = port;
-            smtpClient.EnableSsl = ssl;
-
-        }
-
-        public void sendMail(string subject, string body, List<string> destinatarioCorreo)
-        {
-            var mailMessage = new MailMessage();
-            try
+            using (var connection = new SqlConnection(Conexion.conexion))
             {
-                mailMessage.From = new MailAddress(remitenteCorreo);
-                foreach (string mail in destinatarioCorreo)
+                connection.Open();
+                using (var command = new SqlCommand("SELECT COUNT(*) FROM Usuario WHERE login = @Login AND Contraseña = @Password", connection))
                 {
-                    mailMessage.To.Add(mail);
+                    command.Parameters.AddWithValue("@Login", username);
+                    command.Parameters.AddWithValue("@Password", password); // Asegúrate de que la contraseña se maneje de forma segura
+
+                    int count = (int)command.ExecuteScalar();
+                    return count > 0; // Devuelve true si hay un registro que coincide
                 }
-                mailMessage.Subject = subject;
-                mailMessage.Body = body;
-                mailMessage.Priority = MailPriority.Normal;
-                smtpClient.Send(mailMessage);
             }
-            catch (Exception ex)
-            { }
-
-            finally
-            {
-                mailMessage.Dispose();
-                smtpClient.Dispose();
-            }
-
         }
 
-<<<<<<< HEAD
-        //public string recoverPassword(string usuarioSolicitado)
-        //{
-        //using (var connection = new SqlConnection())
-        //    {
-        //        connection.ConnectionString = Conexion.conexion;  
-=======
         public string recoverPassword(string usuarioSolicitado)
         {
-        using (var connection = new SqlConnection())
-            {
-                connection.ConnectionString = Conexion.conexion;  
-                connection.Open();
-                using (var command = new SqlCommand())
+                using (var connection = new SqlConnection(Conexion.conexion))
                 {
-                    command.Connection = connection;
-                    command.CommandText = "Select * from Usuario where login=@Login or Correo=@Correo";
-                    command.Parameters.AddWithValue("@Login", usuarioSolicitado);
-                    command.Parameters.AddWithValue("@Correo", usuarioSolicitado);
+                    connection.Open();
+                    using (var command = new SqlCommand())
+                    {
+                        command.Connection = connection;
+                        command.CommandText = "SELECT * FROM Usuarios WHERE login = @Login OR Correo = @Correo";
+                        command.Parameters.AddWithValue("@Login", usuarioSolicitado);
+                        command.Parameters.AddWithValue("@Correo", usuarioSolicitado);
+                        command.CommandType = System.Data.CommandType.Text;
 
+                        SqlDataReader reader = command.ExecuteReader();
+                        if (reader.Read())
+                        {
+                            string nombreUsuario = reader.GetString(1);
+                            string correoUsuario = reader.GetString(8);
+                            string cuentaContraseña = reader.GetString(6);
 
+                            var mailService = new DCorreoSoporte();
+                            mailService.SendMail(
+                                subject: "SOPORTE DE CONECTALENTO: solicitud de recuperación de contraseña",
+                                body: $"Hola {nombreUsuario}\nUsted solicitó recuperar su contraseña.\n" +
+                                      $"Su contraseña actual es:  { cuentaContraseña}"+
+                                      "\nSin embargo le pedimos que cambie su contraseña una vez ingrese al sistema",
+                                destinatarioCorreo: new List<string> { correoUsuario });
+
+                            return $"Hola, {nombreUsuario}\nUsted solicitó recuperar su contraseña\n" +
+                                   $"Por favor revise su correo: {correoUsuario}\n" +
+                                   "Sin embargo le pedimos que cambie su contraseña una vez ingrese al sistema.";
+                        }
+                        else
+                        {
+                            return "Lo sentimos, no hay ninguna cuenta registrada con ese correo.";
+                        }
+                    }
                 }
->>>>>>> 41b943a7b26a42fa385d45a730a8cf690e657149
-
-        //    }
-
-        //}
-
-
+            }
+        }
     }
-}
+

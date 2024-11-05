@@ -20,11 +20,9 @@ C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\De
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\GUI.pdb
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\BLL.dll
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\Common.dll
-C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\DAL.dll
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\ENTITY.dll
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\BLL.pdb
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\Common.pdb
-C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\DAL.pdb
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\ENTITY.pdb
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\obj\Debug\GUI.login.resources
@@ -57,3 +55,7 @@ C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\G
 C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\Common.pdb
 C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\ENTITY.pdb
 C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\obj\Debug\GUI.AdminOptions.resources
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\obj\Debug\GUI.LoginAdmin.resources
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\DAL.dll
+C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\GUI\bin\Debug\DAL.pdb

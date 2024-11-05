@@ -130,6 +130,10 @@
       <Project>{eab6ed62-03f3-40ed-a44c-afc446f4eea5}</Project>
       <Name>Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{54562a00-d4fa-415e-84cd-ea02210582ad}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ENTITY\ENTITY.csproj">
       <Project>{152bd96b-4c6f-4c04-9ba0-74d2b6b168d1}</Project>
       <Name>ENTITY</Name>
