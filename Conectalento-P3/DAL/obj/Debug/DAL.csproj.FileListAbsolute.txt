@@ -18,3 +18,14 @@ C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\obj\De
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.dll
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.pdb
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.dll
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.pdb
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\DAL.dll
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\DAL.pdb
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\Common.dll
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\ENTITY.dll
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\Common.pdb
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\bin\Debug\ENTITY.pdb
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\DAL\obj\Debug\DAL.csproj.Up2Date

@@ -7,10 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Drawing;
 using System.Reflection.Emit;
-using BLL;
-using DAL;
+//using BLL;
 using System.Drawing.Text;
 using static System.Windows.Forms.LinkLabel;
 namespace GUI
@@ -135,8 +133,11 @@ namespace GUI
 
         private void BtnAdmin_Click(object sender, EventArgs e)
         {
-
+            LoginAdmin loginAdmin = new LoginAdmin();
+            loginAdmin.Show(this);
+            this.Hide();
         }
+
 
         private void BtnCandidato_Click(object sender, EventArgs e)
         {
@@ -228,20 +229,20 @@ namespace GUI
             }
 
             
-            UserModel user = new UserModel();
-            var validLogin = user.LoginUser(TxtCu.Text, TxtCc.Text);
-            if (validLogin)
-            {
-                PrincipalCandidato principalC = new PrincipalCandidato();
-                principalC.Show(this);
-                this.Hide(); 
-            }
-            else
-            {
-                msgError("Error, usuario o contraseña incorrectas \n reintentar");
-                TxtCc.Clear(); 
-                TxtCu.Focus(); 
-            }
+          //  UserModel user = new UserModel();
+           // var validLogin = user.LoginUser(TxtCu.Text, TxtCc.Text);
+            //if (validLogin)
+            //{
+            //    PrincipalCandidato principalC = new PrincipalCandidato();
+            //    principalC.Show(this);
+            //    this.Hide(); 
+            //}
+            //else
+            //{
+            //    msgError("Error, usuario o contraseña incorrectas \n reintentar");
+            //    TxtCc.Clear(); 
+            //    TxtCu.Focus(); 
+            //}
         }
 
         private void msgError(string msg)

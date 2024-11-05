@@ -54,15 +54,15 @@ namespace DAL
 
         }
 
-        public string recoverPassword(string usuarioSolicitado)
-        {
-        using (var connection = new SqlConnection())
-            {
-                connection.ConnectionString = Conexion.conexion;  
+        //public string recoverPassword(string usuarioSolicitado)
+        //{
+        //using (var connection = new SqlConnection())
+        //    {
+        //        connection.ConnectionString = Conexion.conexion;  
 
-            }
+        //    }
 
-        }
+        //}
 
 
     }

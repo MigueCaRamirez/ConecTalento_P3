@@ -10,3 +10,9 @@ C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\ENTITY\obj
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\ENTITY\obj\Debug\ENTITY.dll
 C:\Users\USUARIO\Desktop\ConecTalento\ConecTalento_P3\Conectalento-P3\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\great\OneDrive\Escritorio\Proyecto_p3\ConecTalento_P3\Conectalento-P3\ENTITY\obj\Debug\ENTITY.pdb
