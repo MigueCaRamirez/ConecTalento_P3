@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{249112B4-108C-483F-84F5-95257FB64234}|BLL\\BLL.csproj|solutionrelative:bll\\nrecuperarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|c:\\users\\usuario\\desktop\\conectalento\\conectalento_p3\\conectalento-p3\\dal\\drecuperarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\dal\\drecuperarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|solutionrelative:dal\\drecuperarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\formrecoverpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|c:\\users\\usuario\\desktop\\conectalento\\conectalento_p3\\conectalento-p3\\dal\\dcorreosoporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\dal\\dcorreosoporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|solutionrelative:dal\\dcorreosoporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{231DE79E-C648-48CB-9178-8D4E304CCCA2}|GUI\\GUI.csproj|solutionrelative:gui\\formrecoverpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|c:\\users\\usuario\\desktop\\conectalento\\conectalento_p3\\conectalento-p3\\dal\\sqlserver\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\dal\\sqlserver\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54562A00-D4FA-415E-84CD-EA02210582AD}|DAL\\DAL.csproj|solutionrelative:dal\\sqlserver\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -105,8 +105,7 @@
               "RelativeToolTip": "DAL\\DCorreoSoporte.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAswEAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:45:26.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:45:26.065Z"
             },
             {
               "$type": "Document",
@@ -118,8 +117,7 @@
               "RelativeToolTip": "DAL\\DRecuperarPassword.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAD4v0EAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:22:49.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:22:49.078Z"
             },
             {
               "$type": "Document",
@@ -131,8 +129,7 @@
               "RelativeToolTip": "GUI\\FormRecoverPassword.cs",
               "ViewState": "AQIAAFoAAAAAAAAAAAAowAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:22:49.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:22:49.323Z"
             },
             {
               "$type": "Document",
@@ -144,8 +141,7 @@
               "RelativeToolTip": "GUI\\login.cs",
               "ViewState": "AQIAAPwAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:22:49.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:22:49.316Z"
             },
             {
               "$type": "Document",
@@ -155,7 +151,7 @@
               "RelativeDocumentMoniker": "BLL\\NRecuperarPassword.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\BLL\\NRecuperarPassword.cs",
               "RelativeToolTip": "BLL\\NRecuperarPassword.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAB5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T02:18:07.465Z",
               "EditorCaption": ""
@@ -173,8 +169,7 @@
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\FormRecoverPassword.cs [Dise\u00F1o]",
               "RelativeToolTip": "GUI\\FormRecoverPassword.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:22:49.306Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-05T01:22:49.306Z"
             },
             {
               "$type": "Document",
@@ -186,8 +181,7 @@
               "RelativeToolTip": "DAL\\SqlServer\\Conexion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:24:56.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:24:56.918Z"
             },
             {
               "$type": "Document",
@@ -198,8 +192,7 @@
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.cs [Dise\u00F1o]",
               "RelativeToolTip": "GUI\\login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:22:49.315Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-05T01:22:49.315Z"
             },
             {
               "$type": "Document",
@@ -255,8 +248,7 @@
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\FormRecoverPassword.Designer.cs",
               "RelativeToolTip": "GUI\\FormRecoverPassword.Designer.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:22:49.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:22:49.325Z"
             },
             {
               "$type": "Document",
@@ -327,8 +319,7 @@
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ConecTalento\\ConecTalento_P3\\Conectalento-P3\\GUI\\login.Designer.cs",
               "RelativeToolTip": "GUI\\login.Designer.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:22:49.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:22:49.418Z"
             }
           ]
         }
