@@ -46,11 +46,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdminOptions.cs">
+    <Compile Include="ADMIN\GestionarCandidatos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AdminOptions.Designer.cs">
-      <DependentUpon>AdminOptions.cs</DependentUpon>
+    <Compile Include="ADMIN\GestionarCandidatos.Designer.cs">
+      <DependentUpon>GestionarCandidatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\HistorialEvaluaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\HistorialEvaluaciones.Designer.cs">
+      <DependentUpon>HistorialEvaluaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\MensajeaCandidatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\MensajeaCandidatos.Designer.cs">
+      <DependentUpon>MensajeaCandidatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\NuevoPuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\NuevoPuesto.Designer.cs">
+      <DependentUpon>NuevoPuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\PrincipalAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\PrincipalAdmin.Designer.cs">
+      <DependentUpon>PrincipalAdmin.cs</DependentUpon>
     </Compile>
     <Compile Include="Components\EllipseComponent.cs">
       <SubType>Component</SubType>
@@ -58,10 +82,10 @@
     <Compile Include="Controls\EllipseControl.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="LoginAdmin.cs">
+    <Compile Include="ADMIN\LoginAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LoginAdmin.Designer.cs">
+    <Compile Include="ADMIN\LoginAdmin.Designer.cs">
       <DependentUpon>LoginAdmin.cs</DependentUpon>
     </Compile>
     <Compile Include="FormRecoverPassword.cs">
@@ -84,8 +108,35 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="AdminOptions.resx">
-      <DependentUpon>AdminOptions.cs</DependentUpon>
+    <Compile Include="ADMIN\Ver estadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\Ver estadisticas.Designer.cs">
+      <DependentUpon>Ver estadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\VerDetallesCandidato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\VerDetallesCandidato.Designer.cs">
+      <DependentUpon>VerDetallesCandidato.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ADMIN\GestionarCandidatos.resx">
+      <DependentUpon>GestionarCandidatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\HistorialEvaluaciones.resx">
+      <DependentUpon>HistorialEvaluaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\MensajeaCandidatos.resx">
+      <DependentUpon>MensajeaCandidatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\NuevoPuesto.resx">
+      <DependentUpon>NuevoPuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\PrincipalAdmin.resx">
+      <DependentUpon>PrincipalAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\VerDetallesCandidato.resx">
+      <DependentUpon>VerDetallesCandidato.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormRecoverPassword.resx">
       <DependentUpon>FormRecoverPassword.cs</DependentUpon>
@@ -93,7 +144,7 @@
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="LoginAdmin.resx">
+    <EmbeddedResource Include="ADMIN\LoginAdmin.resx">
       <DependentUpon>LoginAdmin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PrincipalCandidato.resx">
@@ -108,6 +159,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ADMIN\Ver estadisticas.resx">
+      <DependentUpon>Ver estadisticas.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -142,5 +196,6 @@
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

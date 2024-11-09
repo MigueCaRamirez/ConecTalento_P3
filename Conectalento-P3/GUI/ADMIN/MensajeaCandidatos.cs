@@ -10,19 +10,12 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class LoginAdmin : Form
+    public partial class MensajeaCandidatos : Form
     {
-        public LoginAdmin()
+        public MensajeaCandidatos()
         {
             InitializeComponent();
-        }
-
-        private void btnCancelar_Click(object sender, EventArgs e)
-        {
-            login login = new login();
-            login.Show(this);
-            this.Hide();
-
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
     }
 }

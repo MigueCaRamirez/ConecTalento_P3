@@ -22,6 +22,7 @@ namespace GUI
         public login()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
             TxtCc.UseSystemPasswordChar = true;
             panelSuperior.Size = new Size(panelInferior.Width / 2, panelInferior.Height);
             panelSuperior.Location = new Point(0, 0); 
@@ -45,15 +46,15 @@ namespace GUI
         {
             panelSuperior.Controls.Clear(); 
 
-            // Posiciones de los botones Evaluador y Admin
-            BtnEvaluador.Location = new Point(110, 180); // Posición del botón Evaluador
-            BtnAdmin.Location = new Point(110, 250); // Posición del botón Admin
+           
+            BtnEvaluador.Location = new Point(110, 180); 
+            BtnAdmin.Location = new Point(110, 250); 
 
             panelSuperior.Controls.Add(BtnEvaluador);
             panelSuperior.Controls.Add(BtnAdmin);
             panelSuperior.Controls.Add(label1);
 
-            // Asegúrate de que Candidato esté oculto al inicio
+            
             BtnCandidato.Visible = false;
         }
 
@@ -71,22 +72,21 @@ namespace GUI
 
         private void MoverPanelYConfigurarBotones(int nuevaPosicionX, bool mostrarCandidato)
         {
-            // Mover el panelSuperior dentro del panelInferior
-            panelSuperior.Location = new Point(nuevaPosicionX, 0); // Fijo en la parte superior del panelInferior
+            panelSuperior.Location = new Point(nuevaPosicionX, 0);
 
         }
 
         private void InicializarBotonesCandidato()
         {
-            panelSuperior.Controls.Clear(); // Limpiar los controles existentes en el panelSuperior
+            panelSuperior.Controls.Clear();
 
-            BtnCandidato.Location = new Point(110, 120); // Posición del botón Candidato
-            BtnAdmin.Location = new Point(110, 180); // Posición del botón Admin
+            BtnCandidato.Location = new Point(110, 120); 
+            BtnAdmin.Location = new Point(110, 180); 
 
             panelSuperior.Controls.Add(BtnCandidato);
             panelSuperior.Controls.Add(BtnAdmin);
 
-            // Asegúrate de que el botón Evaluador esté oculto
+            
             BtnEvaluador.Visible = true;
            
         }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class AdminOptions : Form
+    public partial class VerDetallesCandidato : Form
     {
-        public AdminOptions()
+        public VerDetallesCandidato()
         {
             InitializeComponent();
         }
