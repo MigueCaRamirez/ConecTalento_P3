@@ -1,0 +1,10 @@
+# Archivos de Visual Studio
+.vs/
+*.suo
+
+# Archivos de compilación de .NET
+bin/
+obj/
+
+# Archivos de logs
+*.log
