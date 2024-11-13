@@ -79,21 +79,21 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("HP Simplified Hans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(407, 44);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(231, 24);
+            this.label5.Size = new System.Drawing.Size(275, 25);
             this.label5.TabIndex = 15;
             this.label5.Text = "PUESTOS DISPONIBLES";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("HP Simplified Hans", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(642, 16);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(270, 24);
+            this.label4.Size = new System.Drawing.Size(318, 25);
             this.label4.TabIndex = 13;
             this.label4.Text = "PANEL DE ADMINISTRADOR";
             // 
@@ -180,20 +180,20 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("HP Simplified Hans", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(1061, 221);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(87, 14);
+            this.label3.Size = new System.Drawing.Size(105, 16);
             this.label3.TabIndex = 9;
             this.label3.Text = "CANDIDATOS";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("HP Simplified Hans", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(430, 221);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(65, 14);
+            this.label2.Size = new System.Drawing.Size(79, 16);
             this.label2.TabIndex = 8;
             this.label2.Text = "PUESTOS";
             // 
@@ -208,10 +208,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("HP Simplified Hans", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(777, 221);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(65, 14);
+            this.label1.Size = new System.Drawing.Size(79, 16);
             this.label1.TabIndex = 6;
             this.label1.Text = "ESTADOS";
             this.label1.Click += new System.EventHandler(this.label1_Click);

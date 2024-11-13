@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GUI
+namespace GUI.EVALUADOR
 {
-    public partial class PrincipalCandidato : Form
+    public partial class Historial : Form
     {
-        public PrincipalCandidato()
+        public Historial()
         {
             InitializeComponent();
         }

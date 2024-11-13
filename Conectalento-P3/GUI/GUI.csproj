@@ -88,6 +88,30 @@
     <Compile Include="ADMIN\LoginAdmin.Designer.cs">
       <DependentUpon>LoginAdmin.cs</DependentUpon>
     </Compile>
+    <Compile Include="EVALUADOR\Historial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EVALUADOR\Historial.Designer.cs">
+      <DependentUpon>Historial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EVALUADOR\PanelMenuEvaluadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EVALUADOR\PanelMenuEvaluadores.Designer.cs">
+      <DependentUpon>PanelMenuEvaluadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EVALUADOR\PrincipalEvaluador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EVALUADOR\PrincipalEvaluador.Designer.cs">
+      <DependentUpon>PrincipalEvaluador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EVALUADOR\VerDetalles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EVALUADOR\VerDetalles.Designer.cs">
+      <DependentUpon>VerDetalles.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormRecoverPassword.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,12 +123,6 @@
     </Compile>
     <Compile Include="login.Designer.cs">
       <DependentUpon>login.cs</DependentUpon>
-    </Compile>
-    <Compile Include="PrincipalCandidato.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="PrincipalCandidato.Designer.cs">
-      <DependentUpon>PrincipalCandidato.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -138,6 +156,18 @@
     <EmbeddedResource Include="ADMIN\VerDetallesCandidato.resx">
       <DependentUpon>VerDetallesCandidato.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="EVALUADOR\Historial.resx">
+      <DependentUpon>Historial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EVALUADOR\PanelMenuEvaluadores.resx">
+      <DependentUpon>PanelMenuEvaluadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EVALUADOR\PrincipalEvaluador.resx">
+      <DependentUpon>PrincipalEvaluador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EVALUADOR\VerDetalles.resx">
+      <DependentUpon>VerDetalles.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormRecoverPassword.resx">
       <DependentUpon>FormRecoverPassword.cs</DependentUpon>
     </EmbeddedResource>
@@ -146,9 +176,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ADMIN\LoginAdmin.resx">
       <DependentUpon>LoginAdmin.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="PrincipalCandidato.resx">
-      <DependentUpon>PrincipalCandidato.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
