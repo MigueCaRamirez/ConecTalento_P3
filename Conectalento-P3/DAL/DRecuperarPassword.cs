@@ -27,6 +27,7 @@ namespace DAL
             }
         }
 
+<<<<<<< HEAD
         public string recoverPassword(string usuarioSolicitado)
         {
                 using (var connection = new SqlConnection(Conexion.conexion))
@@ -67,5 +68,8 @@ namespace DAL
                 }
             }
         }
+=======
+
+>>>>>>> 0a6c516da868760965c1150f9959a5b71647d7fa
     }
 

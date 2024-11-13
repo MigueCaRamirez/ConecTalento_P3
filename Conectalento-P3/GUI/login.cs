@@ -230,9 +230,19 @@ namespace GUI
                 return; 
             }
 
+<<<<<<< HEAD
 
             //NRecuperarPassword user = new NRecuperarPassword();
             //var validLogin = user.LoginUser(TxtCu.Text, TxtCc.Text);
+=======
+            CandidatoOption candidatoOption = new CandidatoOption();
+            candidatoOption.Show(this);
+            this.Hide();
+
+            
+          //  UserModel user = new UserModel();
+           // var validLogin = user.LoginUser(TxtCu.Text, TxtCc.Text);
+>>>>>>> 0a6c516da868760965c1150f9959a5b71647d7fa
             //if (validLogin)
             //{
             //  PrincipalCandidato principalC = new PrincipalCandidato();
@@ -257,6 +267,13 @@ namespace GUI
         {
             var recoverPassword = new  FormRecoverPassword();
             recoverPassword.ShowDialog();
+        }
+
+        private void BtnE_Click(object sender, EventArgs e)
+        {
+            EvaluadorOption evaluadorOption = new EvaluadorOption();    
+            evaluadorOption.Show(this);
+            this.Hide();
         }
     }
     

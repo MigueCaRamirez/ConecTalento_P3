@@ -76,13 +76,29 @@
     <Compile Include="ADMIN\PrincipalAdmin.Designer.cs">
       <DependentUpon>PrincipalAdmin.cs</DependentUpon>
     </Compile>
+    <Compile Include="CandidatoOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandidatoOption.Designer.cs">
+      <DependentUpon>CandidatoOption.cs</DependentUpon>
+    </Compile>
     <Compile Include="Components\EllipseComponent.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Controls\EllipseControl.cs">
       <SubType>Component</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="ADMIN\LoginAdmin.cs">
+=======
+    <Compile Include="EvaluadorOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EvaluadorOption.Designer.cs">
+      <DependentUpon>EvaluadorOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginAdmin.cs">
+>>>>>>> 0a6c516da868760965c1150f9959a5b71647d7fa
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ADMIN\LoginAdmin.Designer.cs">
@@ -167,6 +183,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="EVALUADOR\VerDetalles.resx">
       <DependentUpon>VerDetalles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandidatoOption.resx">
+      <DependentUpon>CandidatoOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EvaluadorOption.resx">
+      <DependentUpon>EvaluadorOption.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormRecoverPassword.resx">
       <DependentUpon>FormRecoverPassword.cs</DependentUpon>
